@@ -1,0 +1,20 @@
+Speech Recognition:-
+
+    Since we’re building an Application of voice assistant, 
+one of the most important things in this is that your assistant recognizes your
+ voice . To install this module type the below command in the terminal.
+
+                  pip install SpeechRecognition
+
+pyaudio:-
+       PyAudio provides Python bindings for PortAudio.
+    To install pyaudio type the below command in the terminal.
+                   pip install PyAudio
+
+ Web browser:- 
+
+     To perform Web Search. This module comes built-in with Python. 
+
+ Datetime:-
+
+     Date and Time is used to showing Date and Time. This module comes built-int with Python
